@@ -11,7 +11,7 @@ class CustomRichText extends StatelessWidget {
         text: TextSpan(
             text: '$info ',
             style: const TextStyle(
-                fontSize: 14, fontWeight: FontWeight.w600, color: Colors.white),
+                fontSize: 14, fontWeight: FontWeight.w600, color: Colors.black),
             children: [
           TextSpan(
             text: title,

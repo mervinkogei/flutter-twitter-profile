@@ -17,7 +17,7 @@ class TwitterProfileHeader extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 const Text(
-                  'John',
+                  'Senior Mobile Dev | Kogei Jnr',
                   style: TextStyle(
                       fontSize: 22,
                       fontWeight: FontWeight.w800,
